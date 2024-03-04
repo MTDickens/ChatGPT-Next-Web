@@ -7,9 +7,9 @@
 
 [![Web][Web-image]][web-url]
 
-[网页版](https://chat-gpt-next-web-gosuto.vercel.app/) / [反馈](https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/issues)
+[网页版](https://n3xt.chat) / [反馈](https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/issues)
 
-[web-url]: https://chat-gpt-next-web-gosuto.vercel.app/
+[web-url]: https://n3xt.chat/
 [download-url]: https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
@@ -33,6 +33,8 @@
 ## 主要功能
 
 - 除插件工具外，与原项目保持一致 [ChatGPT-Next-Web 主要功能](https://github.com/Yidadaa/ChatGPT-Next-Web#主要功能)
+
+- 支持 OpenAI TTS（文本转语音）https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/issues/208
 
 - 支持 GPT-4V(视觉) 模型
   - 需要配置对象存储服务，请参考 [对象存储服务配置指南](./docs/s3-oss.md) 配置
